@@ -44,3 +44,21 @@
 .button__outlined:disabled:hover {
   background-color: transparent;
 }
+.blue {
+  color: #3182ce;
+}
+
+.blue:hover {
+  background-color: #2b6cb0;
+  outline: #ebf8ff;
+}
+
+.pink {
+  color:  #d53f8c;
+}
+
+.pink:hover {
+  background-color: #b83280;
+  outline: #FFF5F7;
+}
+
